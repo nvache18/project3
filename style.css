@@ -1,0 +1,49 @@
+.d1{
+    margin-top: 10px;
+    background-color: blue;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.i1{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border-top: 5px solid green;
+    border-bottom:5px solid purple;
+    border-right:5px solid black;
+    border-left:5px solid red;
+}
+.d2{
+    margin-top: 10px; 
+     background-color:red ;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.i2{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border-top: 5px solid green;
+    border-bottom:5px solid purple;
+    border-right:5px solid black;
+    border-left:5px solid red;
+}
+.d3{
+    border: 5px dashed red;
+    margin-top: 10px;
+    background-color: yellow;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.i3{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border-top: 5px solid green;
+    border-bottom:5px solid purple;
+    border-right:5px solid black;
+    border-left:5px solid red;
+}
